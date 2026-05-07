@@ -1,0 +1,40 @@
+html {
+    background-color: black;
+}
+div {
+    
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+img {
+   
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    font-family:"Merriweather", serif;
+  font-optical-sizing:auto;
+  font-weight: weight;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-transform: uppercase;
+}
+
+p {
+    font-family:"Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: white;
+}
+
+
+
